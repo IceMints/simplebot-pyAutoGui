@@ -1,2 +1,2 @@
-# automation-pyAutoGui-
-Using pyAutoGui and ImageGrab to automate impossible Rush game (http://tanksw.com/impossible-rush/)
+# automation pyAutoGui simple bot
+Using pyAutoGui and ImageGrab to bot impossible Rush game (http://tanksw.com/impossible-rush/)
